@@ -18,7 +18,7 @@ Welcome to the official website for Canterbury Bankstown City Council, a roblox 
 Updated: December, 2022
 
 | Update Type | Description       |
-| ----------- | ----------------- |
+| :---------- | :---------------- |
 | Private Infrastructure `Transdev` | The Volvo B8RLE Bustech VST has been remodelled on the exterior and the driver cab now has a dash.
 | Private Infrastructure `Transdev` | The Volvo B8RLE Bustech VST door controls have been moved to the new dash in the driver cab.
 | Game Mechanics `Spawners`         | The Transdev bus spawners have been permanently been moved to the Bankstown Central Bus Layover Area. |
@@ -35,8 +35,9 @@ Updated: December, 2022
 
 | Company Name | Description and Application       |
 | :----------- | :-------------------------------- |
-| Private Infrastructure `Transdev` | The Volvo B8RLE Bustech VST has been remodelled on the exterior and the driver cab now has a dash.
-| Private Infrastructure `Transdev` | The Volvo B8RLE Bustech VST door controls have been moved to the new dash in the driver cab.
+| Transdev Pty Ltd, Bankstown `Private Bus Company` | At Transdev, we are connecting communities to the ones they need to get to, giving them a smooth journey on their way there in the comfort of our buses. We also work in partnership with Transport for NSW to continually increase bus services to provide for Sydney’s growing demand. We deliver bus services for various people, we deliver school services for selected schools in our School Travel Program in partnership with Transport for NSW and provide public services for the communities of Sydney.
+
+Bus drivers are given monthly and weekly working compensation and are given bonuses for overtime work in accordance with Transport for NSW..
 
 
 
