@@ -6,7 +6,7 @@ Welcome to the official website for Canterbury Bankstown City Council, a roblox 
 
 ## Game Overview
 
-![image](https://ibb.co/TwS8d7m)
+![image](https://user-images.githubusercontent.com/102143827/208001303-ea2d093a-72fb-431c-b1d1-64cddb721aef.png)
 
 ### Game Description
 Based in a state in Australia, 
