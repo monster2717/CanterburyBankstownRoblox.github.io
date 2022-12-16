@@ -9,7 +9,6 @@ Welcome to the official website for Canterbury Bankstown City Council, a roblox 
 
 <img src="https://user-images.githubusercontent.com/102143827/208001303-ea2d093a-72fb-431c-b1d1-64cddb721aef.png" width="500" height="147" />
 
-### Game Description
-Based in a state in Australia, 
-This game is based on a city council region with a fully working transportation system of a fleet of transport buses, shops, residential areas, and education facilities.
+### Game Link
+[link text](https://web.roblox.com/games/11648891857/Canterbury-Region)
 
