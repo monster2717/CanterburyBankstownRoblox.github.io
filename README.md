@@ -22,6 +22,6 @@ Updated: December, 2022
 `-` Players no longer respawn with a forcefield forever
 `-` Some Bus Stops on the hume highway now have timetables which players can view, these bus timetables are updated monthly depending on timetable changes by the bus operator (Transdev)
 
-| Option | Description |
-| ------ | ----------- |
-|        |             |
+| Update Type | Description       |
+| ----------- | ----------------- |
+|             |                   |
