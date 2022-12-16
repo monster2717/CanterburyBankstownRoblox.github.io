@@ -19,6 +19,7 @@ Updated: December, 2022
 
 | Update Type | Description       |
 | ----------- | ----------------- |
-| Private Infrastructure         | Volvo B8RLE Bustech VST has been remodelled.               |
-| Spawners    | The Transdev bus spawners have been permanently been moved to the Bankstown Central Bus Layover Area |
+| Private Infrastructure (Transdev Bus) | The Volvo B8RLE Bustech VST has been remodelled on the exterior and the driver cab now has a dash.
+| Private Infrastructure (Transdev Bus) | The Volvo B8RLE Bustech VST door controls have been moved to the new dash in the driver cab.
+| Spawners    | The Transdev bus spawners have been permanently been moved to the Bankstown Central Bus Layover Area. |
 | Infrastructure         | Some bus stops on the hume highway now have access to the beta bus timetables where you can view what time buses come, these are updated monthly depending on the bus operators changes to the timetables. |
