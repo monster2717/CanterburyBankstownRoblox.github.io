@@ -27,7 +27,7 @@ Updated: December, 2022
 
 ------------------------ 
 
-### Private Companies and Businesses: 
+## Private Companies and Businesses: 
 Private companies and businesses is a initiative that the council is developing over the year, giving the public and opportunity to start a business or join a business that they desire, getting paid for the work they do.
 
 `Updated: December, 2022`
