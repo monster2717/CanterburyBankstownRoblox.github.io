@@ -25,3 +25,5 @@ Updated: December, 2022
 | Update Type | Description       |
 | ----------- | ----------------- |
 | Bus         | Volvo B8RLE Bustech VST has been remodelled.               |
+| Spawners    | The Transdev bus spawners have been permanently been moved to the Bankstown Central Bus Layover Area |
+| Bus         | Some bus stops on the hume highway now have access to the beta bus timetables where you can view what time buses come |
