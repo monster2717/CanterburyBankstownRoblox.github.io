@@ -24,4 +24,4 @@ Updated: December, 2022
 
 | Update Type | Description       |
 | ----------- | ----------------- |
-|             |                   |
+| Bus         | Volvo B8RLE Bustech VST has been remodelled.               |
