@@ -18,4 +18,6 @@ Welcome to the official website for Canterbury Bankstown City Council, a roblox 
 Updated: December, 2022
 
 `-` Bustech B8RLE Exterior Remodel and Driver Cab Update
-
+`-` Transdev Bus Spawners have been moved to the Bankstown Central Bus Layover area permanently
+`-` Players no longer respawn with a forcefield forever
+`-` Some Bus Stops on the hume highway now have timetables which players can view, these bus timetables are updated monthly depending on timetable changes by the bus operator (Transdev)
