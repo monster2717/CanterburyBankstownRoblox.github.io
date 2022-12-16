@@ -2,7 +2,7 @@
 ### General Information
 Welcome to the official website for Canterbury Bankstown City Council, a roblox game inspired by a real life suburb, Bankstown, NSW. This game is a roleplay game which gives you may job opportunities when playing, it could be emergency services or bus driving, whatever you desire is found here.
 
----------------------------------------------------------------------------------------------------------------------------- 
+------------------------ 
 
 ## Game Overview
 
@@ -12,7 +12,7 @@ Welcome to the official website for Canterbury Bankstown City Council, a roblox 
 ### Game Link
 [Canterbury Region](https://web.roblox.com/games/11648891857/Canterbury-Region)
 
-----------------------------------------------------------------------------------------------------------------------------  
+------------------------
 
 ### Game Update Log: 
 Updated: December, 2022
@@ -25,14 +25,14 @@ Updated: December, 2022
 | Public Infrastructure             | Some bus stops on the hume highway now have access to the beta bus timetables where you can view what time buses come, these are updated monthly depending on the bus operators changes to the timetables. |
 | Private Infrastructure `Transit Systems` | Transit Systems is now in operation, servicing train replacement bus services, 8T3 and 8AT3.
 
----------------------------------------------------------------------------------------------------------------------------- 
+------------------------ 
 
 ### Private Companies and Businesses: 
 Private companies and businesses is a initiative that the council is developing over the year, giving the public and opportunity to start a business or join a business that they desire, getting paid for the work they do.
 
 `Updated: December, 2022`
 
---------------------------------------------------------------------------
+------------------------
 
 ### Transdev Pty Ltd, Bankstown
 
