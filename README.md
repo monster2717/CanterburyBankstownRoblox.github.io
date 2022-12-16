@@ -12,7 +12,7 @@ Welcome to the official website for Canterbury Bankstown City Council, a roblox 
 **Discord Server:**
 > [Canterbury Bankstown Discord Server](https://discord.gg/qSTFqt667V)
 
-## Game Overview
+## Game Description
 
 
 <img src="https://user-images.githubusercontent.com/102143827/208001303-ea2d093a-72fb-431c-b1d1-64cddb721aef.png" width="500" height="152" />
