@@ -37,7 +37,7 @@ Updated: December, 2022
 | :----------- | :-------------------------------- |
 | Transdev Pty Ltd, Bankstown `Private Bus Company` | At Transdev, we are connecting communities to the ones they need to get to, giving them a smooth journey on their way there in the comfort of our buses. We also work in partnership with Transport for NSW to continually increase bus services to provide for Sydney’s growing demand. We deliver bus services for various people, we deliver school services for selected schools in our School Travel Program in partnership with Transport for NSW and provide public services for the communities of Sydney.
 
-Bus drivers are given monthly and weekly working compensation and are given bonuses for overtime work in accordance with Transport for NSW..
+Bus drivers are given monthly and weekly working compensation and are given bonuses for overtime work in accordance with Transport for NSW.|
 
 
 
