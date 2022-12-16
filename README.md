@@ -34,7 +34,7 @@ Private companies and businesses is a initiative that the council is developing 
 Updated: December, 2022
 
 | Company Name | Description and Application       |
-| -----------: | --------------------------------: |
+| :----------- | :-------------------------------- |
 | Private Infrastructure `Transdev` | The Volvo B8RLE Bustech VST has been remodelled on the exterior and the driver cab now has a dash.
 | Private Infrastructure `Transdev` | The Volvo B8RLE Bustech VST door controls have been moved to the new dash in the driver cab.
 
