@@ -35,8 +35,8 @@ Updated: December, 2022
 
 | Update Type | Description       |
 | :---------- | :---------------- |
-| Private Infrastructure `Transdev` | The Volvo B8RLE Bustech VST 2RD Has been given a system upgrade by transdev, brake lights and headlights are now operational, the headlights can be interacted with the keys `H = Headlights` and the brake lights are interacted when brakes are ineracted with.
-| Private Infrastructure `Transdev` | The Volvo B8RLE Bustech VST door controls have been moved to the new dash in the driver cab.
+| Private Infrastructure `Transdev` | The Volvo B8RLE Bustech VST 2RD has been given a system upgrade by transdev, brake lights and headlights are now operational, the headlights can be interacted with the keys `H = Headlights` and the brake lights are interacted when brakes are ineracted with.
+| Private Infrastructure `Transdev` | The Volvo B8RLE Bustech VST 2RD has had an interior upgrade, the white aircon compartments have been upgraded to fit wiring.
 
 ------------------------ 
 
